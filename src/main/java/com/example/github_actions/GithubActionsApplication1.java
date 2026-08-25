@@ -9,7 +9,7 @@ public class GithubActionsApplication1 {
 	public static void main(String[] args) {
 		
 		
-		SpringApplication.run(GithubActionsApplication1.class, args);
+		SpringApplication.run(GithubActionsApplication.class, args);
 		
 		
 	}
