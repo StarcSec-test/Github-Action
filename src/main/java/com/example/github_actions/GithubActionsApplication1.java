@@ -10,8 +10,8 @@ public class GithubActionsApplication1 {
 		
 		
 		SpringApplication.run(GithubActionsApplication1.class, args);
-		
-		
+		final String AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE";
+		System.out.println("AWS Key : " + AWS_ACCESS_KEY);
 	}
 
 }
